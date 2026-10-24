@@ -1,0 +1,6 @@
+{
+  "name": "Vypio",
+  "description": "Vypio - A New Way to Connect. A sleek, native-integrated Android web app experience for Vypio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

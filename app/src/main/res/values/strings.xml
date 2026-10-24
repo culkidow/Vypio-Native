@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vypio</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_internet_desc">Please check your network connection and try again.</string>
+    <string name="loading">Loading Vypio…</string>
+    <string name="refresh">Refresh</string>
+    <string name="go_home">Home</string>
+    <string name="share">Share</string>
+</resources>
